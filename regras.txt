@@ -1,0 +1,10 @@
+Regras básicas:
+Cada jogador recebe 5 cartas.
+
+Em cada rodada, todos os jogadores descartam 1 carta da mão.
+
+A carta de maior valor da rodada é destacada no log.
+
+5 rodadas, jogando 1 carta por rodada 
+
+para fazer a condicao de vitoria temos a soma de qual o maior baralho jogado

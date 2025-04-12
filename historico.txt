@@ -1,0 +1,23 @@
+ LOG DA PARTIDA:
+Jogador 1 jogou 10 de Ouros
+Jogador 2 jogou 2 de Paus
+Jogador 3 jogou 10 de Espadas
+Jogador 1 jogou 3 de Copas
+Jogador 2 jogou Valete de Paus
+Jogador 3 jogou 9 de Copas
+Jogador 1 jogou 9 de Paus
+Jogador 2 jogou 8 de Ouros
+Jogador 3 jogou 8 de Espadas
+Jogador 1 jogou 2 de Ouros
+Jogador 2 jogou 8 de Copas
+Jogador 3 jogou 6 de Paus
+Jogador 1 jogou 5 de Ouros
+Jogador 2 jogou 3 de Espadas
+Jogador 3 jogou Valete de Copas
+
+ RESULTADO FINAL:
+Jogador 1 → 29 pontos
+Jogador 2 → 32 pontos
+Jogador 3 → 44 pontos
+
+ Vencedor: Jogador 3 com 44 pontos!
